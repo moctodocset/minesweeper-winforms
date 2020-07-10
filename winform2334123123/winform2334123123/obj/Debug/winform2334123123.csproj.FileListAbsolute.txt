@@ -1,0 +1,10 @@
+E:\C#\winform2334123123\winform2334123123\bin\Debug\winform2334123123.exe.config
+E:\C#\winform2334123123\winform2334123123\bin\Debug\winform2334123123.exe
+E:\C#\winform2334123123\winform2334123123\bin\Debug\winform2334123123.pdb
+E:\C#\winform2334123123\winform2334123123\obj\Debug\winform2334123123.Form1.resources
+E:\C#\winform2334123123\winform2334123123\obj\Debug\winform2334123123.Properties.Resources.resources
+E:\C#\winform2334123123\winform2334123123\obj\Debug\winform2334123123.csproj.GenerateResource.cache
+E:\C#\winform2334123123\winform2334123123\obj\Debug\winform2334123123.csproj.CoreCompileInputs.cache
+E:\C#\winform2334123123\winform2334123123\obj\Debug\winform2334123123.exe
+E:\C#\winform2334123123\winform2334123123\obj\Debug\winform2334123123.pdb
+E:\C#\winform2334123123\winform2334123123\obj\Debug\winform2334123123.csprojAssemblyReference.cache
